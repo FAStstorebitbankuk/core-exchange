@@ -14,10 +14,10 @@
   "dependencies": {
     "@svgr/webpack": "^6.2.1",
     "fs": "^0.0.1-security",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "js-yaml": "^4.1.0",
     "mobx": "^6.5.0",
-    "next": "^12.1.0",
+    "next": "^14.2.10",
     "nextra": "^1.1.0",
     "nextra-theme-docs": "^1.2.2",
     "plaid-threads": "^11.5.0",
