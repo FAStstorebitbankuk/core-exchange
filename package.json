@@ -2,11 +2,11 @@
   "name": "Core-Exchange-Spec",
   "version": "5.0.0",
   "devDependencies": {
-    "@openapitools/openapi-generator-cli": "^2.5.1",
+    "@openapitools/openapi-generator-cli": "^2.15.3",
     "@stoplight/spectral-cli": "^6.3.0",
     "handlebars": "^4.7.7",
     "husky": "^7.0.0",
-    "yaml": "^2.1.1"
+    "yaml": "^2.2.2"
   },
   "scripts": {
     "prepare": "husky install",
